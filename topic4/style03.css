@@ -1,0 +1,13 @@
+table, th, td {
+          border:1px solid black;
+        }
+
+th{
+  background-color: gainsboro;
+}
+
+h1 {
+    color: white;
+    background-color: darkred;
+    text-align: center;
+}

@@ -1,0 +1,30 @@
+article{
+    background-color:  greenyellow;
+    text-align: center;
+}
+
+hgroup{
+    padding:  50px;
+}
+
+h2{
+    color: white;
+}
+
+header{
+    background-color: darkgreen;
+}
+
+footer{
+    text-align: center;
+}
+
+button{
+    background-color: green;
+    color: white;
+}
+
+/*  border */
+hr.solid {
+    border-top: 2px solid rgb(28, 94, 39);
+  }

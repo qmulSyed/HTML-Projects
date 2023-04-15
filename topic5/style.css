@@ -1,0 +1,12 @@
+article{
+    float: left;
+    display: block;
+    width: 15em;
+}
+
+nav{
+    float: left;
+    display: block;
+    float: absolute;
+    width: 15em;
+}

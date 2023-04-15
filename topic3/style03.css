@@ -1,0 +1,13 @@
+ p1 {
+    color: blue;
+    background-color: pink;
+    font-family: serif;
+    font-size: 12px;
+  }
+  
+  p2 {
+    color: white;
+    background-color: green;
+    font-family: fantasy;
+    font-size: 14px;
+  }

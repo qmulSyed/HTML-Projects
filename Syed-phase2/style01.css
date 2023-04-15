@@ -1,0 +1,134 @@
+/* Main Background */
+
+body {
+    background-color: black;
+    margin: 25px;
+  }
+  
+/* Header Headings */
+
+  h1 {
+    color: white;
+  }
+
+  h3 {
+    color: gainsboro;
+  }
+  
+  /* Paragraphs */
+  
+  p1 {
+    font-family: verdana;
+    font-size: 20;
+  }
+
+  p{
+    color: rgb(255, 217, 0);
+  }
+
+  p5 {
+    font-family: verdana;
+    font-size: 14;
+    color: rgb(255, 136, 0);
+  }
+
+  p2 {
+    font-family: verdana;
+    font-size: 2;
+    color: rgb(255, 0, 0);
+  }
+
+  p3 {
+    font-family: verdana;
+    font-size: 24;
+    color: rgb(183, 0, 255);
+  }
+
+/* Styles for Semantic Elements */
+
+  header{
+    background-color: darkred
+  }
+
+  nav{
+    background-color: red
+  }
+
+  section{
+    border-top: 14px solid black;
+    background-color: green
+  }
+
+
+  figure{
+    background-color: yellow;
+    text-align: center;
+    border: 14px solid cyan;
+  }
+
+  figcaption{
+    background-color: darkred
+  }
+
+  footer{
+    border-top: 14px solid black;
+    background-color: darkred
+  }
+
+  article{
+    color: rgb(255, 217, 0);
+  }
+
+  body{
+    color: rgb(255, 0, 0);
+  }
+
+  /* List Styles */
+
+  ul{
+    color: rgb(255, 217, 0);
+  }
+
+  /* Hyperlink Style */
+
+  a {
+    color: rgb(0, 225, 255);
+  }
+
+    /* Form Elements */
+
+  input[type=submit]{
+    background-color: #ff0000;
+    color: white;
+    cursor: pointer;
+  }
+
+  button{
+    background-color: #ff0000;
+    color: white;
+    cursor: pointer;
+  }
+
+  input[type="email"]{
+    background-color: rgb(0, 255, 0);
+  }
+
+  input[type="password"]{
+    background-color: rgb(0, 255, 0);
+  }
+
+  input[type="text"]{
+    background-color: rgb(0, 255, 0);
+  }
+
+  textarea{
+    background-color: rgb(0, 255, 0);
+  }
+
+  input:invalid {
+    background-color: rgb(13, 239, 243);
+  }
+
+  textarea:invalid {
+    background-color: rgb(13, 239, 243);
+  }

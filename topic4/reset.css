@@ -1,0 +1,66 @@
+/* Header Headings Reset*/
+
+  h1 {
+    margin: 0; padding: 0;
+  }
+
+  h3 {
+    margin: 0; padding: 0;
+  }
+  
+  /* Paragraphs Reset*/
+  
+  p1 {
+    margin: 0; padding: 0;
+  }
+
+  p{
+    margin: 0; padding: 0;
+  }
+
+  p5 {
+    margin: 0; padding: 0;
+  }
+
+/* Reset Semantic Elements */
+
+  header{
+    margin: 0; padding: 0;
+  }
+
+  nav{
+    margin: 0; padding: 0;
+  }
+
+  section{
+    margin: 0; padding: 0;
+  }
+
+
+  figure{
+    margin: 0; padding: 0;
+  }
+
+  figcaption{
+    margin: 0; padding: 0;
+  }
+
+  footer{
+    margin: 0; padding: 0;
+  }
+
+  article{
+    margin: 0; padding: 0;
+  }
+
+  /* List Reset */
+
+  ul{
+    margin: 0; padding: 0;
+  }
+
+  /* Hyperlink Reset */
+
+  a {
+    margin: 0; padding: 0;
+  }
